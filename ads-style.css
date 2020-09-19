@@ -1,0 +1,15 @@
+.ads-classSty {
+height:250px;
+width:310px;
+margin:8px auto;
+display:block;
+background-position: center;
+}
+.ads-label {
+background:#f0f0f0;
+color:#0098ff;
+margin:auto;
+padding-left:2px;
+padding-right:2px;
+font-size:12px; 
+}
